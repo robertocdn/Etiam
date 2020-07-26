@@ -4,3 +4,7 @@ image:
 tasks:
   - init: npm install
     command: npm start
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint@2.1.3:1NRvj3UKNTNwmYjptmUmIw==
